@@ -12,7 +12,7 @@
 |-----|---------------------------------|-------------------------------|----------------------------------------------------|--------------------|
 | 1   |collins alex                     |collins1222-max                |collinsalex12345678910@gmail.com                    |2025 Cohort 2       |
 | 2   |Nwabueze princewill              |princewillnwabueze0714         |princewillnwabueze12@gmail.com                      |2025 Cohort 2       |
-| 3   |                                 |                               |                                                    |                    |
+| 3   |Emperor Joseph                   |jojoempero3-Prime              |jojoempero3@gmail.com                               |2025 Cohort 2       |
 | 4   |                                 |                               |                                                    |                    |
 | 5   |                                 |                               |                                                    |                    |
 | 6   |                                 |                               |                                                    |                    |
