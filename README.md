@@ -14,7 +14,7 @@
 | 2   |Nwabueze Princewill              |princewillnwabueze0714         |princewillnwabueze12@gmail.com                      |2025 Cohort 2       |
 | 3   |Emperor Joseph                   |jojoempero3-Prime              |jojoempero3@gmail.com                               |2025 Cohort 2       |
 | 4   |Goodness Ogu                     |Redtechgirlie                  |nessogu419@gmail.com                                |2025 Cohort 2       |
-| 5   |                                 |                               |                                                    |                    |
+| 5   |Ariyo David                      |Ariyo David                    |davidariyo924@gmail.com                             |2025 Cohort 2                    |
 | 6   |                                 |                               |                                                    |                    |
 | 7   |                                 |                               |                                                    |                    |
 | 8   |                                 |                               |                                                    |                    |
