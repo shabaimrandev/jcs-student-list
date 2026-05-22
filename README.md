@@ -1,7 +1,7 @@
-# 🧑‍🏫 JCS Full Stack Development – Student List
+# 🧑‍🏫 JCS Web Development – Student List
 
 **Instructor:** Imran Usman-Shaba  
-**Course:** Full Stack Web Development  
+**Course:** Web Development  
 **Institution:** JCS  
 
 ---
