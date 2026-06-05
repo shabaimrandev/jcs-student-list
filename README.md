@@ -15,15 +15,31 @@
 | 3   |Emperor Joseph                   |jojoempero3-Prime              |jojoempero3@gmail.com                               |2025 Cohort 2       |
 | 4   |Goodness Ogu                     |Redtechgirlie                  |nessogu419@gmail.com                                |2025 Cohort 2       |
 | 5   |Ariyo David                      |AriyoDavid                     |davidariyo924@gmail.com                             |2025 Cohort 2       |
-| 6   |                                 |                               |                                                    |                    |
-| 7   |                                 |                               |                                                    |                    |
-| 8   |                                 |                               |                                                    |                    |
-| 9   |                                 |                               |                                                    |                    |
-| 10  |                                 |                               |                                                    |                    |
-| 11  |                                 |                               |                                                    |                    |
-| 12  |                                 |                               |                                                    |                    |
-| 13  |                                 |                               |                                                    |                    |
-| 14  |                                 |                               |                                                    |                    |
+| 6   |Tovia Augustine                  |                               |                                                    |2025 Cohort 1       |
+| 7   |Justice Azamegbe                 |                               |                                                    |2025 Cohort 1       |
+| 8   |Chisom Ernest                    |                               |                                                    |2025 Cohort 2       |
+| 9   |Emmanuel Oche                    |                               |                                                    |2025 Cohort 2       |
+| 10  |Usman Hashimu                    |                               |                                                    |2025 Cohort 3       |
+| 11  |Seth Ugada                       |                               |                                                    |2025 Cohort 3       |
+| 12  |Michael Enejere                  |                               |                                                    |2025 Cohort 4       |
+| 13  |Ashraf Musa                      |                               |                                                    |2025 Cohort 5       |
+| 14  |Miracle Kyari                    |                               |                                                    |2026 Cohort 1       |
+| 15  |                                 |                               |                                                    |                    |
+| 16  |                                 |                               |                                                    |                    |
+| 17  |                                 |                               |                                                    |                    |
+| 18  |                                 |                               |                                                    |                    |
+| 19  |                                 |                               |                                                    |                    |
+| 20  |                                 |                               |                                                    |                    |
+| 21  |                                 |                               |                                                    |                    |
+| 22  |                                 |                               |                                                    |                    |
+| 23  |                                 |                               |                                                    |                    |
+| 44  |                                 |                               |                                                    |                    |
+| 25  |                                 |                               |                                                    |                    |
+| 26  |                                 |                               |                                                    |                    |
+| 27  |                                 |                               |                                                    |                    |
+| 28  |                                 |                               |                                                    |                    |
+| 29  |                                 |                               |                                                    |                    |
+| 30  |                                 |                               |                                                    |                    |
 
 > 📝 **Instructions for Students:**  
 > - Fork this repository.  
